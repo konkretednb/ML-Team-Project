@@ -1,1 +1,1 @@
-This is the Repo for the Machine Learning Teamp Project. 
+This is the Repo for the Machine Learning Team Project. 
